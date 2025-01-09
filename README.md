@@ -68,8 +68,8 @@ emissions = baseEmission * distance * weatherMultiplier
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/mahendra8432/Advanced-Green-Transit---Tracker.git
-cd Advanced-Green-Transit---Tracker
+git clone https://github.com/mahendra8432/Advanced-Green-Transit-Tracker.git
+cd Advanced-Green-Transit-Tracker
 npm install
 npm run dev
 ```
